@@ -1,3 +1,1 @@
 theme   : jekyll-theme-minimal
-url     : "https://chennytech.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl : "https://chennytech.github.io/portfolio" # the subpath of your site, e.g. "/blog"
